@@ -13,9 +13,9 @@ Citizen.CreateThread(function()
 	
 		SetDiscordAppId('ID') -- Pour avoir ceci vous devez vous rendre sur discord https://discordapp.com/developers puis New Application
 		SetDiscordRichPresenceAsset('logo') -- Ici le nom du logo que vous avez mis sur le site ci dessus
-		SetDiscordRichPresenceAssetText('NomdevotreServeur') -- Ici c'est le nom qui s'affichera sur la photo
+		SetDiscordRichPresenceAssetText('NomdevotreServeur') -- Ici c'est le nom qui s'affichera sur la photo (Texte de la grosse images)
 		SetDiscordRichPresenceAssetSmall('logo') -- Ici c'est le logo que vous aimeriez mettre en petit
-		SetDiscordRichPresenceAssetSmallText('https://discord.gg/8YXZARE') -- Mettez votre discord ici
+		SetDiscordRichPresenceAssetSmallText('https://discord.gg/8YXZARE') -- Mettez votre discord ici (C'est le texte de la petite image)
 		
 
 		
